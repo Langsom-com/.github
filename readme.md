@@ -15,8 +15,9 @@ We currently own and run the following products.
 
 ## Primary contacts on GitHub
 
-* [Bo Møller](https://twitter.com/BoMoellerDK)
-* [Emil Højbjerg](https://twitter.com/moun85)
+* [Bo Møller](https://github.com/BoMoellerDK)
+* [Emil Højbjerg](https://github.com/moun85)
+* [Oliver Lindebod](https://github.com/oliverlindebod-cloud)
 
 ## Additional notes
 
