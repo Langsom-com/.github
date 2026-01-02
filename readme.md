@@ -15,5 +15,9 @@ We currently own and run the following products.
 
 ## Primary contacts on GitHub
 
-[@BoMoellerDK](https://twitter.com/BoMoellerDK)
-[@moun85](https://twitter.com/moun85)
+* [Bo Møller](https://twitter.com/BoMoellerDK)
+* [Emil Højbjerg](https://twitter.com/moun85)
+
+## Additional notes
+
+We also maintain projects on our old repo available on [github.com/Boligforeningsweb](https://github.com/Boligforeningsweb). We have however decided to keep all publicly available projects on this new repo, where you're currently reading. 
